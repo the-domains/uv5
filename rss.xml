@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[UV5]]></title>
         <description><![CDATA[UV5]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/uv5/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 22:37:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 22:38:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uv5/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>UV5 are the gold standard of live music entertainment. Delivering high energy shows around Ireland, the UK and Europe. With a set expertly designed for the dance floor, UV5 are a four piece disco inferno that will whip crowds into a frenzy, and keep them coming back for more every time. Get your dancing shoes on and come meet UV5 out on the dance floor, because the best band in the world is coming to you!</p>]]></description>
-            <link>undefined431c7c66-a34b-4f30-9caf-4b5aa2c09fe5/index.html</link>
+            <link>https://thegrid.ai/uv5/431c7c66-a34b-4f30-9caf-4b5aa2c09fe5/index.html</link>
             <guid isPermaLink="false">431c7c66-a34b-4f30-9caf-4b5aa2c09fe5</guid>
-            <pubDate>Wed, 06 Apr 2016 22:37:17 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 22:38:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

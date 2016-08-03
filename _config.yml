@@ -1,29 +1,41 @@
-name: UV5
-favicon: null
-layout_spectrum: 0.77278
-typography_spectrum: 0.38922921218909323
 title: The Official UV5 Website
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.136825040448457
+  brandStrength: 0.7583046827930957
+  lightness: 0.2701714574359357
+  brandColors:
+    - '#2A2522'
+    - '#D7D8D3'
+    - '#7C593D'
+    - '#FAFDF6'
+    - '#A57D57'
+  rhythmicContrast: 0.7640850672032684
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: UV5
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7583046827930957
-  lightness: 0.27017145743593574
-  saturation: 0.136825040448457
-  rhythmicContrast: 0.7640850672032684
-purpose: []
+typography_spectrum: 0.3892292121890932
+layout_spectrum: 0.77278
